@@ -2,7 +2,7 @@
 
 Hi team iOS - MoMo,
 
-This project I build for applies iOS Developer in your company.
+This project I build for applies iOS Developer role to your company.
 Inspired by this post https://medium.com/@eggcellent.design/vietnamese-mobile-wallet-momo-redesign-b2e2be8cfded
 
 With product mindset. I try to squeeze out performance by creating views programmatically (not using storyboard).
@@ -11,9 +11,12 @@ I know it's not much. But it just starts and I will continue it as my pet projec
 
 Thank you!
 
-# Show case
+## Show case
 
 https://www.youtube.com/watch?v=uGky9hNjniI
 
-# Author 
-HaLam - © 2017
+---
+## Author
+
+This repo was developed by [@lamha](https://github.com/HaLamUs). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/lamhacs). 
