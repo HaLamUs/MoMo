@@ -13,7 +13,7 @@ Thank you!
 
 ## Show case
 
-https://www.youtube.com/watch?v=uGky9hNjniI
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uGky9hNjniI/0.jpg)](https://www.youtube.com/watch?v=uGky9hNjniI)]
 
 ---
 ## Author
